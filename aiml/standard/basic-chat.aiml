@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<meta name="author" content="dr. wallace"/>
+<meta name="language" content="en"/>
+
+
+    <category>
+        <pattern>WHO IS YOUR MENTOR</pattern>
+        <template>
+	Dr. Sukhdeep Sangwan   </template>
+    </category>
+
+
+    <category>
+        <pattern>WHAT IS OPERATING SYSTEM</pattern>
+        <template>
+		Image result for oswww.javatpoint.com
+An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs.
+        </template>
+    </category>
+    <category>
+        <pattern>WHAT IS COMPUTER NETWORK</pattern>
+        <template>
+	A computer network is a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS DATA STRUCTURE</pattern>
+        <template>
+	Data Structure is a way to store and organize data so that it can be used efficiently. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS DBMS</pattern>
+        <template>
+	A database management system (DBMS) is system software for creating and managing databases.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS CLOUD COMPUTING</pattern>
+        <template>
+	Cloud computing is the on demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS SOFTWARE PROJECT MANAGEMENT</pattern>
+        <template>
+	Software project management comprises of a number of activities, which contains planning of project, deciding scope of software product, estimation of cost in various terms, scheduling of tasks and events, and resource management.
+        </template>
+    </category>
+    <category>
+        <pattern>WHAT IS DATABASE</pattern>
+        <template>
+	It is a structured set of data held in a computer, especially one that is accessible in various ways.
+        </template>
+    </category>
+    
+	<category>
+	        <pattern>WHAT ARE YOU</pattern>
+	        <template>
+	        	I'm a bot, silly!
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ NAME OF UNIVERSITY</pattern>
+	        <template>Deenbandhu Chhotu Ram University of Science and Technology Murthal, Sonepat (Haryana) - 131039
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ NAME OF COLLEGE</pattern>
+	        <template>
+	        	Deenbandhu Chhotu Ram University of Science and Technology Murthal, Sonepat (Haryana) - 131039
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ ADDRESS OF COLLEGE</pattern>
+	        <template>
+	        	Address: 50th K.M. Stone, N.H. 1, Murthal, Haryana 131039
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ UNIVERSITY LOCATED</pattern>
+	        <template>
+	        	Address: 50th K.M. Stone, N.H. 1, Murthal, Haryana 131039
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ VICE CHANCELLOR _</pattern>
+	        <template>
+	        	Mr.Rajendra Kumar Anayath
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ UNIVERSITY IS FOUNDED</pattern>
+	        <template>
+	        	Founded: 1987
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ DEPARTMENT _ UNIVERSITY</pattern>
+	        <template>Engineering, Architecture, Biomedical, Biotechnology, Center of Excellence for Energy and Environment Studies, Chemical, Civil, Computer science, Electrical, Electronics and communication, Materials science and nanotechnology, Mechanical, Management and humanities, Humanities, Management, Sciences and mathematics, Chemistry, Mathematics, Physics, Environmental science</template>
+	</category>
+	<category>
+	        <pattern>_ HOSTEL _</pattern>
+	        <template>
+	        	The university campus has a total of 7 hostels, three for women and 4 for men. The capacity of the women's hostels is 450; the men's hostels, 966.
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ BOYS HOSTEL _</pattern>
+	        <template>
+	        	They are 4 : K.S. Krishnan Hall (BH-1), Chandrashekhar Hall (BH-2), Hargobind Khurana Hall (BH-3), Aryabhat Hall (BH-4)
+	        </template>
+	</category>
+	
+	<category>
+	        <pattern>_ GIRLS HOSTEL _</pattern>
+	        <template>
+	        	They are 3 :Gargi Hall (GH), Kalpana Chawla Hall (KCH), Mother Teresa Hall (MTH)
+	        </template>
+	</category>
+	
+
+
+
+</aiml>
